@@ -25,7 +25,7 @@
     <div class="hero"></div>
     <article>
         <div id="search-engine-optimization" class="search-engine-optimization">
-            <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Search Engine Optimizations"/>
+            <img src="search-engine-optimization.jpg" class="float-left" alt="Search Engine Optimizations"/>
             <h1>Search Engine Optimization</h1>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they
@@ -34,7 +34,7 @@
             </p>
         </div>
         <div id="online-reputation-management" class="online-reputation-management">
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Online Reputation Management"/>
+            <img src="online-reputation-management.jpg" class="float-right" alt="Online Reputation Management"/>
             <h1>Online Reputation Management</h1>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an
@@ -43,7 +43,7 @@
             </p>
         </div>
         <div id="social-media-marketing" class="social-media-marketing">
-            <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Social Media Marketing"/>
+            <img src="social-media-marketing.jpg" class="float-left" alt="Social Media Marketing"/>
             <h1>Social Media Marketing</h1>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you
@@ -55,21 +55,21 @@
     <aside>
         <div class="benefit">
             <h1>Lead Generation</h1>
-            <img src="./assets/images/lead-generation.png" alt="Lead Generation"/>
+            <img src="lead-generation.png" alt="Lead Generation"/>
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly
                 to your website.
             </p>
 
             <h1>Brand Awareness</h1>
-            <img src="./assets/images/brand-awareness.png" alt="Brand Awareness"/>
+            <img src="brand-awareness.png" alt="Brand Awareness"/>
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility
                 for your business.
             </p>
 
             <h1>Cost Management</h1>
-            <img src="./assets/images/cost-management.png" alt="Cost Management"/>
+            <img src="cost-management.png" alt="Cost Management"/>
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer
                 need to advertise your page.
